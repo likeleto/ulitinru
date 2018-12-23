@@ -53,7 +53,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: likeleto/personal-site
+repository: likeleto/ulitinru
 repository_tree: master
 
 
@@ -94,7 +94,7 @@ chart: # false (default), true
 
 ## => Paginate
 ##############################
-paginate: 8
+paginate: 80
 paginate_path: /page:num # don't change this unless for special need
 
 
