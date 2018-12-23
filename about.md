@@ -1,56 +1,31 @@
 ---
 layout: article
 titles:
-  en: About
-  zh: 关于
-  zh-Hans: 关于
-  zh-Hant: 關於
-key: page-about
+  en: Работает
+key: about
 ---
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+UX-архитектором в компании Новые Облачные Технологии над отечественным офисным пакетом МойОфис. Курирует направление исследований, проводит качественные и количественные исследования пользователей, статистически анализирует события и документы, проектирует интерфейсы. 
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+Ранее 5 лет в компании Biarum был главным по дизайну. Участвовал в проектах для медицины: радиология, генетика, системы управления знаниями и лабораториями. Организовывал и наставлял маленький отдел дизайна. Был дизайнером продукта Powerlineage - автоматизации сбора семейных диаграмм для генетиков-консультантов его white-label версии для генетической лаборатории Invitae, которая в итоге поглотила Powerlineage. 
 
-## Features
+## Интересуется
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Multi-language support
-- Search
-- Table of contents
-- Authors (Email, Facebook, Twitter, Linkedin, Weibo, Zhihu, etc)
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+Работой с большими данными и журналистикой данных, опубликовал статью-исследование. 
+Эксперементирует с BCI, в контексте применения ЭЭГ в юзабилити исследованиях.
+Входит в программный комитет ProfsoUX, курирует сообщество UXSPb.
 
-## Skins
+## Выступает
+- World Usability Day 2018 "Подходы к оценке эмоций"
+- Software Engineering Conference Russia 2018 "Исследование эмоционального отклика при чтении"
+- UXCamp Nordic "BCI: How to get into human head'
+- ProfsoUX 2018 "Гибкие навыки" 
+- World Information Architecture Day 2018 "IA Sprint" 
+- IT Global Meetup 11 "Sketch: Как создавать свои плагины"
+- ProfsoUX 2017 "BCI: Залезть человеку в голову" 
+- IT Global Meetup 9 "Algorithms in Design"
+- ProfsoUX 2016 "Особенности проектирования UX медицинских систем и приложений"
+- IT Global Meetup 7 "UI Animation"
 
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
