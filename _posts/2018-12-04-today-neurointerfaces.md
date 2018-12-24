@@ -1,13 +1,14 @@
 ---
 title: Нейроинтерфейсы сегодня
-tags: Article, BCI
+tags: Article BCI
 article_header:
-  type: cover
-  image:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: https://habrastorage.org/webt/v4/ay/vr/v4ayvrp9j_sduy_2oezomr_pzbi.jpeg
 ---
-
-![image](https://habrastorage.org/webt/v4/ay/vr/v4ayvrp9j_sduy_2oezomr_pzbi.jpeg)
 
 Со времён изобретения манипулятора "мышь" прошло полвека, и это по-прежнему один из основных способов взаимодействия человека с компьютером. Я поехал на [конференцию](https://neuro.hse.ru/cccp2018/program) в Институт когнитивных нейронаук ВШЭ, чтобы узнать о последних достижениях в области BCI, которая находится за горизонтом, и поэтому так интересна.
 
