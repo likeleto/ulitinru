@@ -1,6 +1,10 @@
 ---
 title: Нейроинтерфейсы сегодня
 tags: Article, BCI
+article_header:
+  type: cover
+  image:
+    src: https://habrastorage.org/webt/v4/ay/vr/v4ayvrp9j_sduy_2oezomr_pzbi.jpeg
 ---
 
 ![image](https://habrastorage.org/webt/v4/ay/vr/v4ayvrp9j_sduy_2oezomr_pzbi.jpeg)
