@@ -2,3 +2,12 @@ header:
   - titles:
       en:       Обо мне
     url:        /about.html
+  - titles:
+      en:       Facebook
+    url:        https://www.facebook.com/ulitin.kirill
+  - titles:
+      en:       LinkedIn
+    url:        https://www.linkedin.com/in/ulitinkirill/
+  - titles:
+      en:       Medium
+    url:        https://medium.com/@ulitin
