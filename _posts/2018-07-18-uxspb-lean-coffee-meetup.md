@@ -1,5 +1,5 @@
 ---
 title: Встреча UXSpb в формате Lean Coffee
-tags: Meetup
+tags: leancoffee
 type: meetup
 ---

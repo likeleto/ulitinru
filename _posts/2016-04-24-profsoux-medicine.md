@@ -9,3 +9,4 @@ type: talk
 <div>{%- include extensions/speakerdeck.html id='' -%}</div>
 
 [Страница доклада на сайте ProfsoUX 16](http://2016.profsoux.ru/papers/paper-138)
+<!--more-->

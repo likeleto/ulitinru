@@ -6,3 +6,4 @@ type: talk
 
 ## Слайды
 <div>{%- include extensions/speakerdeck.html id='' -%}</div>
+<!--more-->
