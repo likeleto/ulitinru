@@ -1,5 +1,5 @@
 ---
-title: UXCamp Nordic "BCI: How to get into human head"
+title: UXCamp Nordic "BCI How to get into human head"
 tags: bci
 type: talk
 ---
