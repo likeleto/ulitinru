@@ -1,5 +1,5 @@
 ---
-title: IT Global Meetup 11 “Sketch: Как создавать свои плагины“
+title: IT Global Meetup 11 “Sketch Как создавать свои плагины“
 tags: sketch plugins
 type: talk
 ---

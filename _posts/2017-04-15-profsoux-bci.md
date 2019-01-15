@@ -1,5 +1,5 @@
 ---
-title: ProfsoUX 2017 “BCI: Залезть человеку в голову“
+title: ProfsoUX 2017 “BCI Залезть человеку в голову“
 tags: bci
 type: talk
 ---
