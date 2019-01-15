@@ -8,4 +8,3 @@ type: talk
 ## Слайды
 <div>{%- include extensions/speakerdeck.html id='7dc31b0f2e9e4b64a270a740e3ade5db' data-ratio='1.33333333333333' -%}</div>
 ## Исходный код примера
-<!--more-->

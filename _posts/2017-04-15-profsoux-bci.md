@@ -8,4 +8,3 @@ type: talk
 ## Слайды
 <div>{%- include extensions/speakerdeck.html id='79fc439589ba462c845dc8427a6890a5' data-ratio='1.33333333333333' -%}</div>
 [Страница доклада на сайте ProfsoUX 17](http://2017.profsoux.ru/papers/bci)
-<!--more-->
