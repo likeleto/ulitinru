@@ -1,6 +1,7 @@
 ---
 title: Нейроинтерфейсы сегодня
-tags: Article BCI
+tags: BCI
+type: article
 article_header:
   type: overlay
   theme: dark
@@ -175,4 +176,3 @@ BCI, которые распознают моторные команды, хор
 - 20 [Miniaturized electroencephalographic scalp electrode for optimal wearing comfort](https://www.semanticscholar.org/paper/Miniaturized-electroencephalographic-scalp-for-Nikulin-Kegeles/b1afab643782dbd95ba34230000b52462c3b408e)
 - 21 [Event-Related Potentials Measured From In and Around the Ear Electrodes Integrated in a Live Hearing Device for Monitoring Sound Perception](https://www.semanticscholar.org/paper/Event-Related-Potentials-Measured-From-In-and-the-a-Denk-Grzybowski/92d6ff906db1850426b3d472d0c14b3a09719b41)
 - 22 [A dry EEG-system for scientific research and brain–computer interfaces](https://dx.doi.org/10.3389%2Ffnins.2011.00053)
-
