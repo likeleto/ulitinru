@@ -20,10 +20,10 @@ TeXt 是针对个人或团队网站、博客、项目、文档等的一款高度
 - HTML 语意化
 - 皮肤
 - 代码高亮主题
-- 多语言支持
+- 国际化
 - 搜索
 - 目录
-- 作者（电子邮件，Facebook，Twitter，领英，微博，知乎等。支持多作者配置）
+- 作者（支持多个）
 - 附加样式（提示，标签，图片，图标，按钮，栅格等）
 - 扩展（音频，视频，幻灯片，在线示例）
 - Markdown 增强（[MathJax](https://www.mathjax.org/)，[mermaid](https://mermaidjs.github.io/)，[chartjs](http://www.chartjs.org/)）
@@ -67,6 +67,7 @@ TeXt 使用 [Tomorrow](https://github.com/chriskempson/tomorrow-theme) 作为它
 - [布局](https://tianqi.name/jekyll-TeXt-theme/docs/zh/layouts)
 - [Logo 和 Favicon](https://tianqi.name/jekyll-TeXt-theme/docs/zh/logo-and-favicon)
 - [作者](https://tianqi.name/jekyll-TeXt-theme/docs/zh/authors)
+- [国际化](https://tianqi.name/jekyll-TeXt-theme/docs/zh/i18n)
 
 ### 内容
 
@@ -89,7 +90,7 @@ TeXt 使用 [Tomorrow](https://github.com/chriskempson/tomorrow-theme) 作为它
 
 - 给该项目点赞 🌟
 - 赞同[这个知乎回答](https://www.zhihu.com/question/20223939/answer/122596506)
-- 关注我的 Github
+- 关注我的 GitHub
 - 打赏
 
 | 微信支付 | 支付宝 |
