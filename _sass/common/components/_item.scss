@@ -26,7 +26,9 @@
 }
 
 a > .item__header, a.item__header, .item__header > a {
-  @include link-colors($text-color-d, $main-color-1);
+  @include link-colors($text-color-d, $main-color-2);
+  font-weight: map-get($base, font-weight-bold);
+
 }
 
 .item__meta {

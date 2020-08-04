@@ -1,7 +1,14 @@
 ---
 title: ProductSense “Дизайн онлайн-опросов”
 tags: survey
-type: talk
+type: article
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: cover
+  image:
+    src: https://www.dropbox.com/s/di8bbauzofakhlp/uru_productsense1.jpg?dl=1
 ---
 ![Kirill Ulitin on ProductSense](https://www.dropbox.com/s/di8bbauzofakhlp/uru_productsense1.jpg?dl=1)
 На прошлой неделе выступил на продуктсенс про свою любовь к опросам. Правда очень люблю этот метод исследований, опрос это маленький продукт со всеми последствиями. Можно сколько угодно пинять на его недостатки, но их реально нивелировать.

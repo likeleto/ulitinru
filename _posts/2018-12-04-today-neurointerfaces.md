@@ -1,13 +1,13 @@
 ---
 title: Нейроинтерфейсы сегодня
-tags: BCI
+tags: bci
 type: article
-article_header:
-  type: overlay
+mode: immersive
+header:
   theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+article_header:
+  type: cover
+  image:
     src: https://habrastorage.org/webt/v4/ay/vr/v4ayvrp9j_sduy_2oezomr_pzbi.jpeg
 ---
 

@@ -34,21 +34,21 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : person
   name      : Кирилл Улитин
   url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  avatar    : https://scontent.fhel6-1.fna.fbcdn.net/v/t31.0-1/p480x480/20643241_1393051184076963_157367305912771100_o.jpg?_nc_cat=103&_nc_sid=7206a8&_nc_ohc=KWClXc9XvLEAX9N9nxG&_nc_ht=scontent.fhel6-1.fna&_nc_tp=6&oh=81100f2bc53e6c6208e8e4447aa1e598&oe=5F404B67
+  bio       :
   email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  facebook  : ulitin
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
+  medium    : ulitin
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : ulitinkirill
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
@@ -211,7 +211,7 @@ defaults:
       license: false
       aside:
         toc: false
-      show_edit_on_github: true
+      show_edit_on_github: false
       show_subscribe: true
       pageview: true
 

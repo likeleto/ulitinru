@@ -1,6 +1,6 @@
 ---
 title: Интервью
-tags: interview, profsoux
+tags: interview profsoux
 type: article
 ---
 А у нас тут скоро конференция #profsoux

@@ -8,11 +8,22 @@
     <div class="main">
       <div class="header__title">
         <div class="header__brand">
-          {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
-          {%- include snippets/get-nav-url.html path=_paths_root -%}
-          {%- if site.title -%}
-            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
-          {%- endif -%}
+          <div class="item">
+  <div class="item__image">
+    <img class="image image--xs rounded" style="width:3rem; border-radius:3px;" src="/kirill_ulitin.jpg"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
+      {%- include snippets/get-nav-url.html path=_paths_root -%}
+      {%- if site.title -%}
+        <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
+        <br><span style="font-size:0.85rem; opacity:.6">UX-архитектор</span>
+      {%- endif -%}
+    </div>
+  </div>
+</div>
+
         </div>
         {%- if site.search.provider -%}
           <button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button>
@@ -33,6 +44,28 @@
               <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
             {%- endif -%}
           {%- endfor -%}
+          {%- assign _author = site.author -%}
+          <!-- {%- if _author.facebook -%}
+            <li title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}">
+              <a class="button button--circle facebook-button" itemprop="sameAs" href="https://www.facebook.com/{{ _author.facebook }}" target="_blank">
+                <div class="icon">{%- include svg/icon/social/facebook.svg -%}</div>
+              </a>
+            </li>
+          {%- endif -%}
+          {%- if _author.medium -%}
+            <li title="{{ _locale_string_follow | replace: '[NAME]', 'Medium' }}">
+              <a class="button button--circle medium-button" itemprop="sameAs" href="https://medium.com/{{ _author.medium }}" target="_blank">
+                <div class="icon">{%- include svg/icon/social/medium.svg -%}</div>
+              </a>
+            </li>
+          {%- endif -%}
+          {%- if _author.linkedin -%}
+            <li title="{{ _locale_string_follow | replace: '[NAME]', 'Linkedin' }}">
+              <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
+                <div class="icon">{%- include svg/icon/social/linkedin.svg -%}</div>
+              </a>
+            </li>
+          {%- endif -%} -->
           {%- if site.search.provider -%}
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
           {%- endif -%}

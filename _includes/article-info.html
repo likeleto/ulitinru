@@ -37,25 +37,8 @@
 
   {%- if _show_tags or _show_author or _show_date or _pageview -%}
     <div class="article__info clearfix">
-      {%- if _show_tags -%}
-
-        <ul class="left-col menu">
-          {%- assign _tag_path = _paths_archive | append: '?tag=' -%}
-          {%- include snippets/prepend-baseurl.html path=_tag_path -%}
-
-          {%- for _tag in include.article.tags -%}
-            {%- assign _tag_path = __return -%}
-            {%- assign _tag_encode = _tag | strip | url_encode } -%}
-            <li>
-              <a class="button button--secondary button--pill button--sm"
-                href="{{ _tag_path | append: _tag_encode | replace: '//', '/' }}">{{ _tag }}</a>
-            </li>
-          {%- endfor -%}
-        </ul>
-      {%- endif -%}
-
       {%- if _show_author or _show_date or _pageview -%}
-        <ul class="right-col menu">
+        <ul class="left-col menu mr-3">
           {%- if _show_author  -%}
             <li><i class="fas fa-user"></i> <span>{{ _author.name }}</span></li>
           {%- endif -%}
@@ -76,6 +59,25 @@
           {%- endif -%}
         </ul>
       {%- endif -%}
+      {%- if _show_tags -%}
+
+        <ul class="left-col menu">
+          {%- assign _tag_path = _paths_archive | append: '?tag=' -%}
+          {%- include snippets/prepend-baseurl.html path=_tag_path -%}
+
+          {%- for _tag in include.article.tags -%}
+            {%- assign _tag_path = __return -%}
+            {%- assign _tag_encode = _tag | strip | url_encode } -%}
+            <li>
+              <!-- button button--secondary button--pill button--sm -->
+              <a class=""
+                href="{{ _tag_path | append: _tag_encode | replace: '//', '/' }}">{{ _tag }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      {%- endif -%}
+
+
 
     </div>
   {%- endif -%}

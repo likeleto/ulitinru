@@ -1,10 +1,10 @@
 ---
 title: UXCampSpb
 tags: failures
-type: group
+type: talk
 ---
 
-![image](https://scontent.fhel3-1.fna.fbcdn.net/v/t1.0-9/36224517_1719153278133417_8615572016294002688_o.jpg?_nc_cat=100&_nc_ht=scontent.fhel3-1.fna&oh=a870ecfbd2212157ebab69b64a217ad2&oe=5CD4FC95)
+![UXCampSpb 2018 Group Session](/assets/images/uxcampspb2018.jpg)
 
 <!--more-->
 

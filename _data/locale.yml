@@ -20,6 +20,27 @@ en: &EN
   EMAIL_ME                : "Send me an Email."
   EMAIL_US                : "Send us an Email."
   COPYRIGHT_DATES         : "2020"
+  ARCHIVE                 : "Архив"
+
+ru: &RU
+  SUBSCRIBE               : "Подписаться RSS"
+  READMORE                : "Далее..."
+  SEARCH                  : "Поиск"
+  CANCEL                  : "Отмена"
+  VIEWS                   : "просмотры"
+  LAST_UPDATED            : "Последнее обновление"
+  PREVIOUS                : "Ранее"
+  NEXT                    : "Далее"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] записей, [PAGE_COUNT] страниц."
+  LICENSE_ANNOUNCE        : "This work is licensed under a [LICENSE] license."
+  POST_ON_GITHUB          : "Редактировать на Github"
+  FOLLOW_ME               : "Подписаться на мой [NAME]."
+  FOLLOW_US               : "Подписаться на наш [NAME]."
+  EMAIL_ME                : "Написать мне."
+  EMAIL_US                : "Написать нам."
+  COPYRIGHT_DATES         : "2020"
 
 en-GB:
   <<: *EN

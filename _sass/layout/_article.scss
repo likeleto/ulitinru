@@ -11,9 +11,10 @@
     & > span {
       font-weight: map-get($base, font-weight-bold);
       color: $text-color-l;
+      display: block;
     }
     & > a {
-      display: block;
+
       @include link-colors($text-color, $main-color-1);
     }
   }

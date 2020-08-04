@@ -1,7 +1,7 @@
 default:
   text_skin: default
   highlight_theme: default
-  lang: en
+  lang: ru
   paths:
     root: /
     home: /
@@ -33,10 +33,11 @@ default:
     show_author_profile: false
     show_subscribe: false
     full_width: false
+    aside: false
     sharing: false
     comment: true
     license: false
-    pageview: false
+    pageview: true
     search: default
 
 sources:
